@@ -1,0 +1,2 @@
+rootProject.name = "ActivityCall"
+include ':app'
