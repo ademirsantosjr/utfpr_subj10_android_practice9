@@ -3,4 +3,6 @@
     <string name="type_something">Type Something</string>
     <string name="send">Send</string>
     <string name="sent_parameter">Sent Parameter</string>
+    <string name="received_data">Received Data</string>
+    <string name="back">Back</string>
 </resources>
