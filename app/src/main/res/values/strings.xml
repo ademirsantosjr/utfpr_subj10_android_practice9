@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">ActivityCall</string>
-    <string name="entre_com_o_texto">Entre com o Texto</string>
-    <string name="enviar">Enviar</string>
+    <string name="type_something">Type Something</string>
+    <string name="send">Send</string>
+    <string name="sent_parameter">Sent Parameter</string>
 </resources>
